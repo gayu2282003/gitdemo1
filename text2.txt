@@ -1,0 +1,2 @@
+You'll need to manually resolve these conflicts before Git can complete the merge.
+-by gayathri
