@@ -1,0 +1,2 @@
+The process involves creating a branch, making changes, pushing the branch to the remote repository, and opening a pull request for review and approval before merging.
+hello world
