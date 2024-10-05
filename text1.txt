@@ -1,0 +1,1 @@
+A Git conflict happens when changes in two branches clash, usually because the same part of a file was edited differently. You have to manually fix the differences before the merge can finish.
