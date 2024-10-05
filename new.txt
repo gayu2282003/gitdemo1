@@ -1,0 +1,4 @@
+Summary:
+A pull request is a mechanism for proposing changes in a Git repository, often used in platforms like GitHub or GitLab.
+It allows for code review, discussion, and collaboration before changes are merged into a target branch.
+The process involves creating a branch, making changes, pushing the branch to the remote repository, and opening a pull request for review and approval before merging.
